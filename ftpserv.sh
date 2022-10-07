@@ -2,7 +2,7 @@
 
 apt-get update 
 apt-get upgrade 
-apt install proftpd* 
+apt install proftpd-* 
 mkdir /etc/proftpd/ssl
 
 cp modules.conf /etc/proftpd/modules.conf
