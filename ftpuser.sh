@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INPUT=/home/Shell_Userlist.csv
+INPUT=Shell_Userlist.csv
 IFS=','
 i=1
 
